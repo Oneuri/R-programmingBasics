@@ -1,7 +1,4 @@
-
-# **NAME: URJIT TEMBHURNIKAR**
-# PRN: 17070122069
-# SDL ASSIGNMENT: R Statastics
+R Statastics
 
 #SAMPLE
 df <- data.frame(name = c('Jon', 'Bill', 'Maria'),
